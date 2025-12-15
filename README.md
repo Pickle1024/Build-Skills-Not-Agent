@@ -4,9 +4,7 @@ An interactive visualization explaining why Anthropic says "Build Skills, Not Ag
 
 ## 🔗 Live Demo
 
-👉 **[View the Interactive Visualization](https://your-username.github.io/skills-vs-agents/)**
-
-*(Replace `your-username` with your GitHub username)*
+👉 **[View the Interactive Visualization](https://Pickle1024.github.io/skills-vs-agents/h**
 
 ## 📖 What This Is About
 
@@ -20,12 +18,6 @@ This visualization explains the deeper architecture philosophy behind Skills vs 
 - **Multi-Agent = System of Intelligence** — multiple AIs coordinated by your code
 - **Skills = Intelligent System** — one AI coordinating itself with multiple capabilities
 - Learn when to use which approach through practical examples
-
-## 🍽️ The Restaurant Analogy
-
-The visualization uses a simple restaurant example to illustrate the difference:
-- **Multi-Agent**: 4 cooks who only know one task each, communicating through sticky notes
-- **Skills**: 1 master chef who handles everything from greeting to serving
 
 ## 📚 What's Inside
 
@@ -49,37 +41,3 @@ The visualization uses a simple restaurant example to illustrate the difference:
 ## 📄 License
 
 MIT License — feel free to fork, modify, and share!
-
-## 🤝 Contributing
-
-Found a typo? Have a suggestion? Feel free to:
-- Open an issue
-- Submit a pull request
-- Share your thoughts
-
-## 💬 Discussion
-
-This visualization sparked from a common question: *"Skills are just files, why does this deserve special attention?"*
-
-The answer is about **paradigm shift** — from coordinating multiple AIs to enhancing one AI.
-
----
-
-### 📝 Based On
-
-- Anthropic's Skills documentation
-- Community insights and discussions
-- Real-world development experiences
-
-### 🙏 Acknowledgments
-
-Thanks to Anthropic for the clear articulation of this architecture philosophy, and to the community for insightful discussions that helped clarify these concepts.
-
----
-
-**Made with ❤️ for the AI development community**
-
-*If you found this helpful, consider:*
-- ⭐ Starring this repo
-- 🔄 Sharing with others who might benefit
-- 💬 Joining the discussion on [LinkedIn](https://linkedin.com) or [Twitter](https://twitter.com)
