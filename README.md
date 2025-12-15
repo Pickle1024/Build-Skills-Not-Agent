@@ -4,7 +4,7 @@ An interactive visualization explaining why Anthropic says "Build Skills, Not Ag
 
 ## 🔗 Live Demo
 
-👉 **[View the Interactive Visualization](https://Pickle1024.github.io/skills-vs-agents/h**
+👉 **[View the Interactive Visualization](https://Pickle1024.github.io/skills-vs-agents/)
 
 ## 📖 What This Is About
 
